@@ -473,7 +473,7 @@ Footer
   }
 }
 
-@media screen and (max-width: 767px) {
+@media (min-width: 360px) and (max-width: 767px) {
   .navigation {
     display: flex;
     flex-direction: column;
